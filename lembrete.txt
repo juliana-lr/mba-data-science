@@ -1,0 +1,28 @@
+A cada prática:
+
+Salve no seu PC.
+
+Rode:
+
+git add .
+git commit -m "Resumo da aula de Árvores de Decisão"
+git push
+
+
+Verifique no site do GitHub se o arquivo apareceu.
+
+Analogia:
+
+Git add → “Peguei esses arquivos para colocar na mochila”
+
+Git commit → “Fechei a mochila e colei uma etiqueta dizendo o que tem dentro”
+
+Git push → “Enviei a mochila para o GitHub”
+
+Por isso, o commit é essencial:
+
+Ele guarda o histórico do seu trabalho
+
+Permite reverter mudanças se algo quebrar
+
+Ajuda outros (e você mesma no futuro) a entenderem o que foi alterado e por quê
